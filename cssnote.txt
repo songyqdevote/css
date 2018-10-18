@@ -56,3 +56,24 @@ CSS 背景
 	background-repeat
 	background-attachment
 	background-position
+css文本
+	文本颜色
+	颜色属性被用来设置文字的颜色。
+	颜色是通过CSS最经常的指定：
+	十六进制值 - 如: ＃FF0000
+	一个RGB值 - 如: RGB(255,0,0)
+	颜色的名称 - 如: red
+	
+	
+css3
+CSS3 模块
+	CSS3被拆分为"模块"。旧规范已拆分成小块，还增加了新的。
+	一些最重要CSS3模块如下：
+	选择器
+	盒模型
+	背景和边框
+	文字特效
+	2D/3D转换
+	动画
+	多列布局
+	用户界面
